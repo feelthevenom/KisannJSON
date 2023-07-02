@@ -22,6 +22,36 @@
         "title":"Potato",
         "detail":"Potato is most important food crop of the world. It is economical crop and referred as Poor man friend. Its origin is in South America. It is rich source of starch and vitamin. It is used as vegetable also used for making of chips. It is used for several industrial purposes for production of starch and alcohol.",
         "full_detail":"https://en.wikipedia.org/wiki/Potato"
+    },
+    {
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Asparagus_racemosus.JPG/330px-Asparagus_racemosus.JPG",
+        "title":"Shatavari",
+        "detail":"Shatavari is known as the most innocent herb which contains wide range of benefits for human body. It derives its named “Shatavari” as a woman possessing hundred husbands. It is a rejuvenate herb and roots are used about 500tonnes in India every year for the production of medicines.",
+        "full_detail":"https://en.wikipedia.org/wiki/Asparagus_racemosus"
+    },
+    {
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Celery_2.jpg/150px-Celery_2.jpg",
+        "title":"Celery",
+        "detail":"The botanical name of celery is Apium graveolens and is also known as Karnauli. It is also known for its medicinal properties. Celery is used to cure joint pain, headache, nervousness, gout, weight loss, blood purification etc. It is rich in vitamin C, vitamin K, vitamin B6, folate and potassium.",
+        "full_detail":"https://en.wikipedia.org/wiki/Celery"
+    },
+    {
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Iceberg_lettuce_in_SB.jpg/330px-Iceberg_lettuce_in_SB.jpg",
+        "title":"lettuce",
+        "detail":"Lettuce belongs to family of Asteraceae. It is also called as Salad crops as it is consumed in uncooked form. Because of its diet and medicinal values, its demand is increasing rapidly. It is mostly grown for leaves purpose but sometime it is cultivated for seed and stem purpose.",
+        "full_detail":"https://en.wikipedia.org/wiki/Lettuce"
+    },
+    {
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Spinacia_oleracea_Spinazie_bloeiend.jpg/330px-Spinacia_oleracea_Spinazie_bloeiend.jpg",
+        "title":"spinach",
+        "detail":"Spinach belongs to family of 'Amaranthaceae' and it is native of central and western Asia. It is perennial vegetable and cultivated throughout the world. Spinach is also known as 'Palak' in Hindi. It is a rich source of iron, vitamin and anti-oxidants. It has many health benefits. It helps to increases immunity. It is good for digestion, also good for skin, hair, eyes and for brain health.",
+        "full_detail":"https://en.wikipedia.org/wiki/Spinach"
+    },
+    {
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Italian_garlic_PDO.JPG/330px-Italian_garlic_PDO.JPG",
+        "title":"Garlic",
+        "detail":"Garlic is a native of Southern Europe and a popular bulb crop cultivated throughout Asia. It is used as spice in many dishes. It has excellent medicinal properties. It is rich source of Protein, Phosphorus, Potassium etc. It helps in digestion; also it reduces cholesterol in human blood",
+        "full_detail":"https://en.wikipedia.org/wiki/Garlic"
     }
 
 ]}
