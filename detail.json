@@ -4,6 +4,24 @@
         "title":"Beetroot",
         "detail":"Beetroot is also known as “garden beet”. It is sweet in taste and is healthy having antioxidant properties. In the world after Sugarcane, Beetroot is the second largest sugar crop. It is a short duration crop which can be harvested in 6-7 months. It has medicinal values i.e. it is used to cure cancer and heart diseases. It can be grown easily and is ranked as top 10 vegetables grown in India.",
         "full_detail":"https://en.wikipedia.org/wiki/Beetroot"
+    },
+    {
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Vegetable-Carrot-Bundle-wStalks.jpg/330px-Vegetable-Carrot-Bundle-wStalks.jpg",
+        "title":"Carrot",
+        "detail":"Carrot 'annual' or 'biannual' herb belongs to family of Umbelliferae and it is native of 'Europe'. It is a great source of Vitamin A. Carrot is major vegetable crop of India. Haryana, Andhra Pradesh, Karnataka, Punjab and Uttar Pradesh are major carrot growing states.",
+        "full_detail":"https://en.wikipedia.org/wiki/Carrot"
+    },
+    {
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Ipomoea_batatas_006.JPG/330px-Ipomoea_batatas_006.JPG",
+        "title":"Sweet potato",
+        "detail":"The botanical name of Sweet potato is Ipomoea batatas. This crop is mainly grown because of its sweet taste and starchy roots. The tubers are rich source of beta-carotene and are used as anti-oxidants. It is an herbaceous perennial vine having lobed or heart shaped leaves. Its tubers are edible, smooth skin, tapered and long.",
+        "full_detail":"https://en.wikipedia.org/wiki/Sweet_potato"
+    },
+    {
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Patates.jpg/330px-Patates.jpg",
+        "title":"Potato",
+        "detail":"Potato is most important food crop of the world. It is economical crop and referred as Poor man friend. Its origin is in South America. It is rich source of starch and vitamin. It is used as vegetable also used for making of chips. It is used for several industrial purposes for production of starch and alcohol.",
+        "full_detail":"https://en.wikipedia.org/wiki/Potato"
     }
 
 ]}
